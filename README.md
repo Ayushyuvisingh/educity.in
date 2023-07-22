@@ -1,2 +1,2 @@
 # educity.in
-education website, first college project
+educational website, first college project.....
